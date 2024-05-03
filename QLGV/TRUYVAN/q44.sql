@@ -1,0 +1,1 @@
+-- TASK: Q44. Cho biết tên những giáo viên khoa Công nghệ thông tin mà chưa tham gia đề tài nào.

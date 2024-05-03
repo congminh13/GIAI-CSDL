@@ -1,0 +1,1 @@
+-- TASK: Q22. Cho biết mã số các trưởng khoa có chủ nhiệm đề tài.

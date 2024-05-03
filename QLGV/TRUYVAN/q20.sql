@@ -1,0 +1,1 @@
+-- TASK: Q20. Cho biết tên những giáo viên vừa là trưởng khoa và vừa là trưởng bộ môn.

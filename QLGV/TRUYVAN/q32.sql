@@ -1,0 +1,1 @@
+-- TASK: Q32. Với mỗi giáo viên cho tên giáo viên và số người thân của giáo viên đó.

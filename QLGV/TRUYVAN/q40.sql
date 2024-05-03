@@ -1,0 +1,1 @@
+-- TASK: Q40. Cho biết tên giáo viên và tên khoa của giáo viên có lương cao nhất.

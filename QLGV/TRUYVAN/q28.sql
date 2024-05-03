@@ -1,0 +1,1 @@
+-- TASK: Q28. Cho biết số lượng giáo viên và lương trung bình của từng bộ môn.
