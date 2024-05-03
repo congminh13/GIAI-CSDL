@@ -88,11 +88,10 @@ tasks = [
 directory = '.' 
 
 for i, task in enumerate(tasks, start=1):
-    filename = f'q{i}.sql'
+    filename = f'q{i:02}.sql' 
     filepath = os.path.join(directory, filename)
-    with open(filepath, 'r+') as file:
+    with open(filepath, 'w+') as file: 
         content = file.read()
         file.seek(0)
         file.write(f'-- TASK: {task}\n')  
         file.write(content)
-
