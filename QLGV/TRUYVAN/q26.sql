@@ -1,0 +1,1 @@
+-- TASK: Q26. Cho biết họ tên và mức lương của các giáo viên.

@@ -1,0 +1,1 @@
+-- TASK: Q49. Tìm những giáo viên có lương lớn hơn lương của ít nhất một giáo viên bộ môn “Công nghệ phần mềm”
